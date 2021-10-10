@@ -1,0 +1,394 @@
+2021-08-08 07:41:55,750 - eBanking -INFO - URL is opened
+2021-08-08 07:41:55,870 - eBanking -INFO - Entered username
+2021-08-08 07:41:55,956 - eBanking -INFO - Entered password
+2021-08-08 07:41:57,363 - eBanking -INFO - Login test PASSED!
+2021-08-08 08:26:46,569 - eBanking -INFO - URL is opened
+2021-08-08 08:26:46,684 - eBanking -INFO - Entered username
+2021-08-08 08:26:46,771 - eBanking -INFO - Entered password
+2021-08-08 08:26:47,979 - eBanking -INFO - Login test PASSED!
+2021-08-08 17:49:07,685 - eBanking -INFO - URL is opened
+2021-08-08 17:49:07,817 - eBanking -INFO - Entered username
+2021-08-08 17:49:07,899 - eBanking -INFO - Entered password
+2021-08-08 17:49:09,205 - eBanking -INFO - Login test PASSED!
+2021-08-08 17:56:18,692 - eBanking -INFO - URL is opened
+2021-08-08 17:56:18,950 - eBanking -INFO - Entered username
+2021-08-08 17:56:19,043 - eBanking -INFO - Entered password
+2021-08-08 17:56:20,821 - eBanking -INFO - Login test PASSED!
+2021-08-08 22:47:30,848 - eBanking -INFO - URL is opened
+2021-08-09 15:30:43,118 - eBanking -INFO - URL is opened
+2021-08-09 15:30:43,324 - eBanking -INFO - Entered username
+2021-08-09 15:30:43,409 - eBanking -INFO - Entered password
+2021-08-09 15:30:44,784 - eBanking -INFO - Login test PASSED!
+2021-08-09 15:43:16,721 - eBanking -INFO - URL is opened
+2021-08-09 15:53:35,630 - eBanking -INFO - URL is opened
+2021-08-09 15:53:35,753 - eBanking -INFO - Entered username
+2021-08-09 15:53:35,840 - eBanking -INFO - Entered password
+2021-08-09 15:53:37,120 - eBanking -INFO - Login test PASSED!
+2021-08-09 16:21:09,766 - eBanking -INFO - URL is opened
+2021-08-09 16:21:09,883 - eBanking -INFO - Entered username
+2021-08-09 16:21:09,970 - eBanking -INFO - Entered password
+2021-08-09 16:21:11,567 - eBanking -INFO - Login test PASSED!
+2021-08-09 18:14:53,614 - eBanking -INFO - username provided
+2021-08-09 18:14:53,695 - eBanking -INFO - password provided
+2021-08-09 18:14:54,193 - eBanking -INFO - clicked on login button
+2021-08-09 18:14:59,188 - eBanking -INFO - username provided
+2021-08-09 18:14:59,264 - eBanking -INFO - password provided
+2021-08-09 18:14:59,803 - eBanking -INFO - clicked on login button
+2021-08-09 18:15:05,111 - eBanking -INFO - username provided
+2021-08-09 18:15:05,191 - eBanking -INFO - password provided
+2021-08-09 18:15:05,777 - eBanking -INFO - clicked on login button
+2021-08-09 18:15:11,119 - eBanking -INFO - username provided
+2021-08-09 18:15:11,188 - eBanking -INFO - password provided
+2021-08-09 18:15:11,939 - eBanking -INFO - clicked on login button
+2021-08-09 18:15:16,543 - eBanking -INFO - username provided
+2021-08-09 18:15:16,614 - eBanking -INFO - password provided
+2021-08-09 18:15:17,384 - eBanking -INFO - clicked on login button
+2021-08-09 18:21:26,655 - eBanking -INFO - username provided
+2021-08-09 18:21:26,737 - eBanking -INFO - password provided
+2021-08-09 18:21:28,692 - eBanking -INFO - clicked on login button
+2021-08-09 18:21:31,712 - eBanking -INFO - Login PASSED
+2021-08-09 18:21:37,627 - eBanking -INFO - username provided
+2021-08-09 18:21:37,707 - eBanking -INFO - password provided
+2021-08-09 18:21:38,225 - eBanking -INFO - clicked on login button
+2021-08-09 18:21:43,092 - eBanking -INFO - username provided
+2021-08-09 18:21:43,168 - eBanking -INFO - password provided
+2021-08-09 18:21:43,935 - eBanking -INFO - clicked on login button
+2021-08-09 18:21:49,300 - eBanking -INFO - username provided
+2021-08-09 18:21:49,377 - eBanking -INFO - password provided
+2021-08-09 18:21:50,786 - eBanking -INFO - clicked on login button
+2021-08-09 18:21:53,793 - eBanking -INFO - Login PASSED
+2021-08-09 18:22:00,064 - eBanking -INFO - username provided
+2021-08-09 18:22:00,145 - eBanking -INFO - password provided
+2021-08-09 18:22:00,871 - eBanking -INFO - clicked on login button
+2021-08-10 00:40:31,572 - eBanking -INFO - Username is provided
+2021-08-10 00:40:31,666 - eBanking -INFO - Password is provided
+2021-08-10 00:40:33,308 - eBanking -INFO - Login button is clicked
+2021-08-10 00:40:37,378 - eBanking -INFO - Add New Customer link is clicked
+2021-08-10 00:40:37,379 - eBanking -INFO - Providing the customer details...
+2021-08-10 00:40:37,473 - eBanking -INFO - Customer name is entered
+2021-08-10 00:40:37,540 - eBanking -INFO - Customer gender is selected
+2021-08-10 00:40:37,691 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-10 00:40:37,768 - eBanking -INFO - Customer address is entered
+2021-08-10 00:40:37,854 - eBanking -INFO - Customer city is entered
+2021-08-10 00:40:37,938 - eBanking -INFO - Customer state is entered
+2021-08-10 00:40:38,017 - eBanking -INFO - Customer pin is entered
+2021-08-10 00:40:38,106 - eBanking -INFO - Customer mobile number is entered
+2021-08-10 00:40:38,218 - eBanking -INFO - Customer email id is entered
+2021-08-10 00:40:38,290 - eBanking -INFO - Customer password is entered
+2021-08-10 00:40:38,893 - eBanking -INFO - Submit button is clicked
+2021-08-10 00:40:41,894 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-10 01:05:21,497 - eBanking -INFO - Username is provided
+2021-08-10 01:05:21,589 - eBanking -INFO - Password is provided
+2021-08-10 01:05:23,547 - eBanking -INFO - Login button is clicked
+2021-08-10 01:05:27,542 - eBanking -INFO - Add New Customer link is clicked
+2021-08-10 01:05:27,543 - eBanking -INFO - Providing the customer details...
+2021-08-10 01:05:27,644 - eBanking -INFO - Customer name is entered
+2021-08-10 01:05:27,712 - eBanking -INFO - Customer gender is selected
+2021-08-10 01:05:27,866 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-10 01:05:27,941 - eBanking -INFO - Customer address is entered
+2021-08-10 01:05:28,034 - eBanking -INFO - Customer city is entered
+2021-08-10 01:05:28,121 - eBanking -INFO - Customer state is entered
+2021-08-10 01:05:28,202 - eBanking -INFO - Customer pin is entered
+2021-08-10 01:05:28,285 - eBanking -INFO - Customer mobile number is entered
+2021-08-10 01:05:28,393 - eBanking -INFO - Customer email id is entered
+2021-08-10 01:05:28,459 - eBanking -INFO - Customer password is entered
+2021-08-10 01:05:30,213 - eBanking -INFO - Submit button is clicked
+2021-08-10 01:05:33,216 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-10 01:05:33,233 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-10 01:06:48,150 - eBanking -INFO - URL is opened
+2021-08-10 01:06:48,272 - eBanking -INFO - Entered username
+2021-08-10 01:06:48,356 - eBanking -INFO - Entered password
+2021-08-10 01:06:49,875 - eBanking -INFO - Login test PASSED!
+2021-08-10 01:06:57,536 - eBanking -INFO - username provided
+2021-08-10 01:06:57,615 - eBanking -INFO - password provided
+2021-08-10 01:06:59,909 - eBanking -INFO - clicked on login button
+2021-08-10 01:07:02,926 - eBanking -INFO - Login PASSED
+2021-08-10 01:07:11,359 - eBanking -INFO - username provided
+2021-08-10 01:07:11,435 - eBanking -INFO - password provided
+2021-08-10 01:07:12,108 - eBanking -INFO - clicked on login button
+2021-08-10 01:07:17,501 - eBanking -INFO - username provided
+2021-08-10 01:07:17,577 - eBanking -INFO - password provided
+2021-08-10 01:07:18,255 - eBanking -INFO - clicked on login button
+2021-08-10 01:07:24,669 - eBanking -INFO - username provided
+2021-08-10 01:07:24,746 - eBanking -INFO - password provided
+2021-08-10 01:07:26,331 - eBanking -INFO - clicked on login button
+2021-08-10 01:07:29,336 - eBanking -INFO - Login PASSED
+2021-08-10 01:07:36,548 - eBanking -INFO - username provided
+2021-08-10 01:07:36,627 - eBanking -INFO - password provided
+2021-08-10 01:07:37,296 - eBanking -INFO - clicked on login button
+2021-08-10 01:07:47,674 - eBanking -INFO - Username is provided
+2021-08-10 01:07:47,751 - eBanking -INFO - Password is provided
+2021-08-10 01:07:49,144 - eBanking -INFO - Login button is clicked
+2021-08-10 01:07:53,123 - eBanking -INFO - Add New Customer link is clicked
+2021-08-10 01:07:53,124 - eBanking -INFO - Providing the customer details...
+2021-08-10 01:07:53,218 - eBanking -INFO - Customer name is entered
+2021-08-10 01:07:53,278 - eBanking -INFO - Customer gender is selected
+2021-08-10 01:07:53,423 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-10 01:07:53,501 - eBanking -INFO - Customer address is entered
+2021-08-10 01:07:53,586 - eBanking -INFO - Customer city is entered
+2021-08-10 01:07:53,673 - eBanking -INFO - Customer state is entered
+2021-08-10 01:07:53,753 - eBanking -INFO - Customer pin is entered
+2021-08-10 01:07:53,832 - eBanking -INFO - Customer mobile number is entered
+2021-08-10 01:07:53,936 - eBanking -INFO - Customer email id is entered
+2021-08-10 01:07:54,000 - eBanking -INFO - Customer password is entered
+2021-08-10 01:07:54,530 - eBanking -INFO - Submit button is clicked
+2021-08-10 01:07:57,531 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-10 15:09:47,680 - eBanking -INFO - URL is opened
+2021-08-10 15:09:47,810 - eBanking -INFO - Entered username
+2021-08-10 15:09:47,890 - eBanking -INFO - Entered password
+2021-08-10 15:09:50,998 - eBanking -INFO - Login test PASSED!
+2021-08-10 15:10:00,446 - eBanking -INFO - username provided
+2021-08-10 15:10:00,523 - eBanking -INFO - password provided
+2021-08-10 15:10:01,371 - eBanking -INFO - clicked on login button
+2021-08-10 15:10:04,390 - eBanking -INFO - Login PASSED
+2021-08-10 15:11:21,829 - eBanking -INFO - URL is opened
+2021-08-10 15:11:21,992 - eBanking -INFO - Entered username
+2021-08-10 15:11:22,076 - eBanking -INFO - Entered password
+2021-08-10 15:11:23,337 - eBanking -INFO - Login test PASSED!
+2021-08-10 15:11:29,985 - eBanking -INFO - username provided
+2021-08-10 15:11:30,061 - eBanking -INFO - password provided
+2021-08-10 15:11:32,122 - eBanking -INFO - clicked on login button
+2021-08-10 15:11:35,143 - eBanking -INFO - Login PASSED
+2021-08-10 15:11:41,701 - eBanking -INFO - username provided
+2021-08-10 15:11:41,781 - eBanking -INFO - password provided
+2021-08-10 15:11:42,510 - eBanking -INFO - clicked on login button
+2021-08-10 15:11:47,777 - eBanking -INFO - username provided
+2021-08-10 15:11:47,856 - eBanking -INFO - password provided
+2021-08-10 15:11:48,609 - eBanking -INFO - clicked on login button
+2021-08-10 15:11:53,534 - eBanking -INFO - username provided
+2021-08-10 15:11:53,613 - eBanking -INFO - password provided
+2021-08-10 15:11:55,418 - eBanking -INFO - clicked on login button
+2021-08-10 15:11:58,423 - eBanking -INFO - Login PASSED
+2021-08-10 15:12:05,033 - eBanking -INFO - username provided
+2021-08-10 15:12:05,111 - eBanking -INFO - password provided
+2021-08-10 15:12:05,858 - eBanking -INFO - clicked on login button
+2021-08-10 15:12:17,749 - eBanking -INFO - Username is provided
+2021-08-10 15:12:17,836 - eBanking -INFO - Password is provided
+2021-08-10 15:12:19,364 - eBanking -INFO - Login button is clicked
+2021-08-10 15:12:23,465 - eBanking -INFO - Add New Customer link is clicked
+2021-08-10 15:12:23,466 - eBanking -INFO - Providing the customer details...
+2021-08-10 15:12:23,562 - eBanking -INFO - Customer name is entered
+2021-08-10 15:12:23,626 - eBanking -INFO - Customer gender is selected
+2021-08-10 15:12:23,799 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-10 15:12:23,875 - eBanking -INFO - Customer address is entered
+2021-08-10 15:12:23,950 - eBanking -INFO - Customer city is entered
+2021-08-10 15:12:24,044 - eBanking -INFO - Customer state is entered
+2021-08-10 15:12:24,121 - eBanking -INFO - Customer pin is entered
+2021-08-10 15:12:24,207 - eBanking -INFO - Customer mobile number is entered
+2021-08-10 15:12:24,309 - eBanking -INFO - Customer email id is entered
+2021-08-10 15:12:24,381 - eBanking -INFO - Customer password is entered
+2021-08-10 15:12:24,859 - eBanking -INFO - Submit button is clicked
+2021-08-10 15:12:27,896 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-10 17:12:37,494 - eBanking -INFO - URL is opened
+2021-08-10 17:12:37,837 - eBanking -INFO - Entered username
+2021-08-10 17:12:37,924 - eBanking -INFO - Entered password
+2021-08-10 17:12:39,586 - eBanking -INFO - Login test PASSED!
+2021-08-10 17:12:48,031 - eBanking -INFO - username provided
+2021-08-10 17:12:48,111 - eBanking -INFO - password provided
+2021-08-10 17:12:50,365 - eBanking -INFO - clicked on login button
+2021-08-10 17:12:53,713 - eBanking -INFO - Login PASSED
+2021-08-10 17:13:01,089 - eBanking -INFO - username provided
+2021-08-10 17:13:01,179 - eBanking -INFO - password provided
+2021-08-10 17:13:01,702 - eBanking -INFO - clicked on login button
+2021-08-10 17:13:06,708 - eBanking -INFO - username provided
+2021-08-10 17:13:06,783 - eBanking -INFO - password provided
+2021-08-10 17:13:07,352 - eBanking -INFO - clicked on login button
+2021-08-10 17:13:12,795 - eBanking -INFO - username provided
+2021-08-10 17:13:12,883 - eBanking -INFO - password provided
+2021-08-10 17:13:14,309 - eBanking -INFO - clicked on login button
+2021-08-10 17:13:17,314 - eBanking -INFO - Login PASSED
+2021-08-10 17:13:24,524 - eBanking -INFO - username provided
+2021-08-10 17:13:24,598 - eBanking -INFO - password provided
+2021-08-10 17:13:25,104 - eBanking -INFO - clicked on login button
+2021-08-10 17:13:38,431 - eBanking -INFO - Username is provided
+2021-08-10 17:13:38,513 - eBanking -INFO - Password is provided
+2021-08-10 17:13:40,134 - eBanking -INFO - Login button is clicked
+2021-08-10 17:13:44,404 - eBanking -INFO - Add New Customer link is clicked
+2021-08-10 17:13:44,405 - eBanking -INFO - Providing the customer details...
+2021-08-10 17:13:44,495 - eBanking -INFO - Customer name is entered
+2021-08-10 17:13:44,571 - eBanking -INFO - Customer gender is selected
+2021-08-10 17:13:44,722 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-10 17:13:44,790 - eBanking -INFO - Customer address is entered
+2021-08-10 17:13:44,863 - eBanking -INFO - Customer city is entered
+2021-08-10 17:13:44,940 - eBanking -INFO - Customer state is entered
+2021-08-10 17:13:45,010 - eBanking -INFO - Customer pin is entered
+2021-08-10 17:13:45,095 - eBanking -INFO - Customer mobile number is entered
+2021-08-10 17:13:45,188 - eBanking -INFO - Customer email id is entered
+2021-08-10 17:13:45,252 - eBanking -INFO - Customer password is entered
+2021-08-10 17:13:45,788 - eBanking -INFO - Submit button is clicked
+2021-08-10 17:13:48,789 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:30:43,717 - eBanking -INFO - URL is opened
+2021-08-11 16:30:44,319 - eBanking -INFO - Entered username
+2021-08-11 16:30:44,436 - eBanking -INFO - Entered password
+2021-08-11 16:30:45,865 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:30:52,360 - eBanking -INFO - Username is provided
+2021-08-11 16:30:52,443 - eBanking -INFO - Password is provided
+2021-08-11 16:30:54,066 - eBanking -INFO - Login button is clicked
+2021-08-11 16:30:58,574 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:30:58,574 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:30:58,664 - eBanking -INFO - Customer name is entered
+2021-08-11 16:30:58,737 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:30:58,895 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:31:03,973 - eBanking -INFO - Customer address is entered
+2021-08-11 16:31:04,062 - eBanking -INFO - Customer city is entered
+2021-08-11 16:31:04,141 - eBanking -INFO - Customer state is entered
+2021-08-11 16:31:04,221 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:31:04,308 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:31:04,411 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:31:04,486 - eBanking -INFO - Customer password is entered
+2021-08-11 16:31:05,009 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:31:08,010 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:33:39,188 - eBanking -INFO - URL is opened
+2021-08-11 16:33:39,329 - eBanking -INFO - Entered username
+2021-08-11 16:33:39,422 - eBanking -INFO - Entered password
+2021-08-11 16:33:41,087 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:33:46,848 - eBanking -INFO - Username is provided
+2021-08-11 16:33:46,937 - eBanking -INFO - Password is provided
+2021-08-11 16:33:48,405 - eBanking -INFO - Login button is clicked
+2021-08-11 16:33:52,604 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:33:52,605 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:33:52,705 - eBanking -INFO - Customer name is entered
+2021-08-11 16:33:52,776 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:33:52,918 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:33:57,997 - eBanking -INFO - Customer address is entered
+2021-08-11 16:33:58,085 - eBanking -INFO - Customer city is entered
+2021-08-11 16:33:58,173 - eBanking -INFO - Customer state is entered
+2021-08-11 16:33:58,256 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:33:58,339 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:33:58,448 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:33:58,520 - eBanking -INFO - Customer password is entered
+2021-08-11 16:34:02,920 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:34:02,920 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:34:02,967 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-11 16:42:00,247 - eBanking -INFO - URL is opened
+2021-08-11 16:42:00,372 - eBanking -INFO - Entered username
+2021-08-11 16:42:00,456 - eBanking -INFO - Entered password
+2021-08-11 16:42:02,328 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:42:08,009 - eBanking -INFO - Username is provided
+2021-08-11 16:42:08,091 - eBanking -INFO - Password is provided
+2021-08-11 16:42:09,449 - eBanking -INFO - Login button is clicked
+2021-08-11 16:42:13,458 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:42:13,458 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:42:13,556 - eBanking -INFO - Customer name is entered
+2021-08-11 16:42:13,622 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:42:13,770 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:42:18,848 - eBanking -INFO - Customer address is entered
+2021-08-11 16:42:18,946 - eBanking -INFO - Customer city is entered
+2021-08-11 16:42:19,027 - eBanking -INFO - Customer state is entered
+2021-08-11 16:42:19,098 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:42:19,178 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:42:19,278 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:42:19,351 - eBanking -INFO - Customer password is entered
+2021-08-11 16:42:24,116 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:42:24,116 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:42:24,136 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-11 16:43:21,652 - eBanking -INFO - URL is opened
+2021-08-11 16:43:21,775 - eBanking -INFO - Entered username
+2021-08-11 16:43:21,852 - eBanking -INFO - Entered password
+2021-08-11 16:43:23,478 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:43:29,713 - eBanking -INFO - Username is provided
+2021-08-11 16:43:29,798 - eBanking -INFO - Password is provided
+2021-08-11 16:43:31,767 - eBanking -INFO - Login button is clicked
+2021-08-11 16:43:35,658 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:43:35,658 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:43:35,753 - eBanking -INFO - Customer name is entered
+2021-08-11 16:43:35,821 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:43:35,957 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:43:41,026 - eBanking -INFO - Customer address is entered
+2021-08-11 16:43:41,101 - eBanking -INFO - Customer city is entered
+2021-08-11 16:43:41,175 - eBanking -INFO - Customer state is entered
+2021-08-11 16:43:41,254 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:43:41,337 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:43:41,436 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:43:41,516 - eBanking -INFO - Customer password is entered
+2021-08-11 16:43:47,299 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:43:47,299 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:43:47,327 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-11 16:45:13,677 - eBanking -INFO - URL is opened
+2021-08-11 16:45:13,802 - eBanking -INFO - Entered username
+2021-08-11 16:45:13,879 - eBanking -INFO - Entered password
+2021-08-11 16:45:15,741 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:45:24,863 - eBanking -INFO - Username is provided
+2021-08-11 16:45:24,940 - eBanking -INFO - Password is provided
+2021-08-11 16:45:26,783 - eBanking -INFO - Login button is clicked
+2021-08-11 16:45:30,763 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:45:30,764 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:45:30,839 - eBanking -INFO - Customer name is entered
+2021-08-11 16:45:30,902 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:45:31,039 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:45:36,111 - eBanking -INFO - Customer address is entered
+2021-08-11 16:45:36,191 - eBanking -INFO - Customer city is entered
+2021-08-11 16:45:36,276 - eBanking -INFO - Customer state is entered
+2021-08-11 16:45:36,353 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:45:36,428 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:45:36,530 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:45:36,603 - eBanking -INFO - Customer password is entered
+2021-08-11 16:45:41,269 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:45:41,270 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:45:41,293 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-11 16:49:57,581 - eBanking -INFO - URL is opened
+2021-08-11 16:49:57,744 - eBanking -INFO - Entered username
+2021-08-11 16:49:57,828 - eBanking -INFO - Entered password
+2021-08-11 16:49:59,183 - eBanking -INFO - Login test PASSED!
+2021-08-11 16:50:05,154 - eBanking -INFO - Username is provided
+2021-08-11 16:50:05,237 - eBanking -INFO - Password is provided
+2021-08-11 16:50:06,428 - eBanking -INFO - Login button is clicked
+2021-08-11 16:50:10,469 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 16:50:10,469 - eBanking -INFO - Providing the customer details...
+2021-08-11 16:50:10,546 - eBanking -INFO - Customer name is entered
+2021-08-11 16:50:10,609 - eBanking -INFO - Customer gender is selected
+2021-08-11 16:50:10,746 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 16:50:15,815 - eBanking -INFO - Customer address is entered
+2021-08-11 16:50:15,890 - eBanking -INFO - Customer city is entered
+2021-08-11 16:50:15,964 - eBanking -INFO - Customer state is entered
+2021-08-11 16:50:16,035 - eBanking -INFO - Customer pin is entered
+2021-08-11 16:50:16,116 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 16:50:16,232 - eBanking -INFO - Customer email id is entered
+2021-08-11 16:50:16,308 - eBanking -INFO - Customer password is entered
+2021-08-11 16:50:20,811 - eBanking -INFO - Submit button is clicked
+2021-08-11 16:50:20,812 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 16:50:20,829 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-11 18:17:18,622 - eBanking -INFO - URL is opened
+2021-08-11 18:17:18,907 - eBanking -INFO - Entered username
+2021-08-11 18:17:19,005 - eBanking -INFO - Entered password
+2021-08-11 18:17:20,440 - eBanking -INFO - Login test PASSED!
+2021-08-11 18:17:26,087 - eBanking -INFO - Username is provided
+2021-08-11 18:17:26,164 - eBanking -INFO - Password is provided
+2021-08-11 18:17:27,466 - eBanking -INFO - Login button is clicked
+2021-08-11 18:17:31,373 - eBanking -INFO - Add New Customer link is clicked
+2021-08-11 18:17:31,374 - eBanking -INFO - Providing the customer details...
+2021-08-11 18:17:31,457 - eBanking -INFO - Customer name is entered
+2021-08-11 18:17:31,516 - eBanking -INFO - Customer gender is selected
+2021-08-11 18:17:31,663 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-11 18:17:36,736 - eBanking -INFO - Customer address is entered
+2021-08-11 18:17:36,813 - eBanking -INFO - Customer city is entered
+2021-08-11 18:17:36,891 - eBanking -INFO - Customer state is entered
+2021-08-11 18:17:36,967 - eBanking -INFO - Customer pin is entered
+2021-08-11 18:17:37,046 - eBanking -INFO - Customer mobile number is entered
+2021-08-11 18:17:37,358 - eBanking -INFO - Customer email id is entered
+2021-08-11 18:17:37,442 - eBanking -INFO - Customer password is entered
+2021-08-11 18:17:42,124 - eBanking -INFO - Submit button is clicked
+2021-08-11 18:17:42,124 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-11 18:17:42,223 - eBanking -INFO - New Customer Registration test case is PASSED
+2021-08-12 16:31:32,685 - eBanking -INFO - URL is opened
+2021-08-12 16:31:33,172 - eBanking -INFO - Entered username
+2021-08-12 16:31:33,247 - eBanking -INFO - Entered password
+2021-08-12 16:31:34,767 - eBanking -INFO - Login test PASSED!
+2021-08-12 16:31:42,240 - eBanking -INFO - Username is provided
+2021-08-12 16:31:42,317 - eBanking -INFO - Password is provided
+2021-08-12 16:31:43,468 - eBanking -INFO - Login button is clicked
+2021-08-12 16:31:47,853 - eBanking -INFO - Add New Customer link is clicked
+2021-08-12 16:31:47,854 - eBanking -INFO - Providing the customer details...
+2021-08-12 16:31:47,930 - eBanking -INFO - Customer name is entered
+2021-08-12 16:31:47,991 - eBanking -INFO - Customer gender is selected
+2021-08-12 16:31:48,130 - eBanking -INFO - Customer DOB is selected from the calendar
+2021-08-12 16:31:53,196 - eBanking -INFO - Customer address is entered
+2021-08-12 16:31:53,279 - eBanking -INFO - Customer city is entered
+2021-08-12 16:31:53,351 - eBanking -INFO - Customer state is entered
+2021-08-12 16:31:53,425 - eBanking -INFO - Customer pin is entered
+2021-08-12 16:31:53,496 - eBanking -INFO - Customer mobile number is entered
+2021-08-12 16:31:53,599 - eBanking -INFO - Customer email id is entered
+2021-08-12 16:31:53,678 - eBanking -INFO - Customer password is entered
+2021-08-12 16:31:58,324 - eBanking -INFO - Submit button is clicked
+2021-08-12 16:31:58,325 - eBanking -INFO - Validation for successful registration of a new customer is started...
+2021-08-12 16:31:58,370 - eBanking -INFO - New Customer Registration test case is PASSED
