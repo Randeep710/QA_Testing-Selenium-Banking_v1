@@ -57,8 +57,8 @@ public class XLUtils {
 		try 
 		{
 			DataFormatter formatter = new DataFormatter();
-            String cellData = formatter.formatCellValue(cell);
-            return cellData;
+            		String cellData = formatter.formatCellValue(cell);
+            		return cellData;
 		}
 		catch (Exception e) 
 		{
