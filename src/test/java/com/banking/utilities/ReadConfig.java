@@ -15,7 +15,7 @@ public class ReadConfig {
 			properties = new Properties();
 			properties.load(fis);
 		} catch(Exception e) {
-			System.out.println("Exection encountered : "+e.getMessage());
+			System.out.println("Exception encountered : "+e.getMessage());
 		}
 	}
 	
